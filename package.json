@@ -1,0 +1,21 @@
+{
+  "name": "learn-linear-algebra",
+  "version": "0.0.1",
+  "description": "learn linear algebra through javascript",
+  "main": "index.ts",
+  "module": "",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "keywords": [
+    "linear-algebra",
+    "javascript"
+  ],
+  "author": "tomwang1013",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.2",
+    "tslib": "^2.6.1",
+    "typescript": "^5.1.6"
+  }
+}
